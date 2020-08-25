@@ -18,7 +18,7 @@ pitch: "The OWASP Jakarta Chapter is hosting AppSec Indonesia. Virtual training 
 {{ site.data.event-details.pitch | markdownify }}
 
  **[Submit Your Call For Training](https://docs.google.com/forms/d/e/1FAIpQLSf5-HG08kha6dDzUOrgo3WXT9LcR9VUnTQr3lLkQjJzZ5LCZw/viewform)**
-***{{ page.venue }}***
+
 
 {{ page.pitch }}
 
